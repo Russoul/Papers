@@ -9,6 +9,10 @@
 
   Great ideas of computing equality by cases. And overall that's a TT many of us have dreamt of and Idris might implement one sometime.
 
+- [Impredicative Observational Equality](https://hal.science/hal-03857705v2/document)
+
+  Just like the above but instead of the tower Ωᵢ we have one impredicative Ω
+
 - [Two-level type theory and applications](https://arxiv.org/pdf/1705.03307.pdf)
 
   User/programmer writes programs against the inner level. While
@@ -136,6 +140,10 @@
 - [Spinal Atomic Lambda-Calculus](https://link.springer.com/chapter/10.1007/978-3-030-45231-5_30#preview)
 
   A laziness upgrade over "atomic lambda calculus"
+
+- [The Derivative of a Regular Type is its Type of One-Hole Contexts, Conor McBride](http://strictlypositive.org/diff.pdf)
+
+- [Constructing Infinitary Quotient-Inductive Types](https://www.cl.cam.ac.uk/~amp12/papers/coniqi/coniqi.pdf)
 
 # Books
 
