@@ -145,6 +145,8 @@
 
 - [Constructing Infinitary Quotient-Inductive Types](https://www.cl.cam.ac.uk/~amp12/papers/coniqi/coniqi.pdf)
 
+- [Proof that leibniz equality is parametrically isomorphic to inductive equality](https://jesper.sikanda.be/files/leibniz-equality.pdf)
+
 # Books
 
 - [The HoTT Book, The Univalent Foundations Program](https://homotopytypetheory.org/book/)
